@@ -7,7 +7,6 @@
 * [General Info](#general-information)
 * [Technologies Used](#technologies-used)
 * [Features](#features)
-* [Screenshots](#screenshots)
 * [Usage](#usage)
 * [Project Status](#project-status)
 * [Room for Improvement](#room-for-improvement)
@@ -34,24 +33,17 @@
 List the ready features here:
 - Personal contact information 
 - Images 
-- 
-
-
-## Screenshots
-![Example screenshot](./img/screenshot.png)
-<!-- If you have screenshots you'd like to share, include them here. -->
-
+- Home page 
 
 
 ## Acknowledgements
 Give credit here.
-- This project was inspired by...
-- This project was based on [this tutorial](https://www.example.com).
-- Many thanks to...
+- This project was inspired by my Professor Mike Colbert at the University of Iowa and is the head of the Analytics Department at Iowa. He wnated to ensure real like experience and work for us students. 
+
 
 
 ## Contact
-Created by [@flynerdpl](https://www.flynerd.pl/) - feel free to contact me!
+Created by [@katelynbonnett] - feel free to contact me!
 
 
 <!-- Optional -->
