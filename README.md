@@ -17,33 +17,30 @@
 
 
 ## General Information
-- Provide general information about your project here.
-- What problem does it (intend to) solve?
-- What is the purpose of your project?
-- Why did you undertake it?
+- Created a personal website for information regarding my previous work, findings, and links to other sites I am on
+- Helps locate my work on the internet 
+- Learn about the ins and outs of building code for personal web use and better my understanding 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 
 ## Technologies Used
-- Tech 1 - version 1.0
-- Tech 2 - version 2.0
-- Tech 3 - version 3.0
+- NameCheap
+- Microsoft Azure 
+- Visual Studio Code (1.60.2)
+- GitHub Desktop 
 
 
 ## Features
 List the ready features here:
-- Awesome feature 1
-- Awesome feature 2
-- Awesome feature 3
+- Personal contact information 
+- Images 
+- 
 
 
 ## Screenshots
 ![Example screenshot](./img/screenshot.png)
 <!-- If you have screenshots you'd like to share, include them here. -->
 
-To do:
-- Feature to be added 1
-- Feature to be added 2
 
 
 ## Acknowledgements
