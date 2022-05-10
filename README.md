@@ -7,7 +7,6 @@
 * [General Info](#general-information)
 * [Technologies Used](#technologies-used)
 * [Features](#features)
-* [Usage](#usage)
 * [Project Status](#project-status)
 * [Room for Improvement](#room-for-improvement)
 * [Acknowledgements](#acknowledgements)
@@ -35,6 +34,8 @@ List the ready features here:
 - Images 
 - Home page 
 
+## Project Status 
+- As I continue my professional career I will continue to add my work to this
 
 ## Acknowledgements
 Give credit here.
